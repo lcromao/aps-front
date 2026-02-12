@@ -1,3 +1,3 @@
 # aps-front
 
-Estou é o projeto para a turma 1T151 Front/end
+Estou é o projeto para a turma 1T151 Frontend
